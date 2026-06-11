@@ -15,7 +15,7 @@ It is based on:
 
 Paste this into MikroTik terminal:
 
-/tool fetch url="https://raw.githubusercontent.com/YOUR_USERNAME/iran-mikrotik-iplist/main/install.rsc" dst-path=install.rsc; /import install.rsc
+/tool fetch url="https://raw.githubusercontent.com/hgolshan/iran-mikrotik-iplist/main/install.rsc" dst-path=install.rsc; /import install.rsc
 
 
 
