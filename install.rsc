@@ -12,7 +12,7 @@
 
 # Download latest file
 
-/tool fetch url=$url dst-path=iran_ipv4_new.rsc check-certificate=yes
+/tool fetch url=$url dst-path=iran_ipv4_new.rsc check-certificate=no
 
 :delay 2
 
